@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">test</string>
+    <string name="addButton">번호 추가</string>
+    <string name="clearButton">초기화</string>
+    <string name="createButton">번호 생성</string>
+    <string name="firstNumber">1</string>
+    <string name="secondNumber">1</string>
+    <string name="thirdNumber">1</string>
+    <string name="fourthNumber">1</string>
+    <string name="fifthNumber">1</string>
+    <string name="sixNumber">1</string>
+</resources>
